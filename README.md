@@ -178,7 +178,7 @@ HealthNexus is designed with security-first principles, built to integrate with 
 <td align="center" width="25%">
 
 ### 👨‍💻 Paidi Tejaram
-**Team Lead & Full Stack Developer**
+**Full Stack Developer & UI/UX Designer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejarampaidi/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tejaram867)
@@ -187,7 +187,7 @@ HealthNexus is designed with security-first principles, built to integrate with 
 <td align="center" width="25%">
 
 ### 👩‍💻 Sai Saranya Badala
-**Frontend Developer & UI Designer**
+**Full Stack Developer & UI/UX Designer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-saranya-badala-37b92233b/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saranyabadala)
@@ -196,7 +196,7 @@ HealthNexus is designed with security-first principles, built to integrate with 
 <td align="center" width="25%">
 
 ### 👩‍💻 Tejaswini Reddy
-**Backend Integration & Firebase Developer**
+**Full Stack Developer & UI/UX Designer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejaswini-reddy-785a47344)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tejaswin308)
@@ -205,7 +205,7 @@ HealthNexus is designed with security-first principles, built to integrate with 
 <td align="center" width="25%">
 
 ### 👨‍💻 D Durgarao
-**UI/UX & Dashboard Developer**
+**Full Stack Developer & UI/UX Designer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/derasapu-durgarao-2647973b8/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vasco-07)
